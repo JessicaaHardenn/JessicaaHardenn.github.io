@@ -1,0 +1,45 @@
+body {
+    background-color: #D2E1E6;
+    font-size: 17px;
+    font-family: 'Raleway', sans-serif;
+}
+
+p,
+figcaption {
+    Font-family: 'PT Serif', serif;
+}
+
+h1,
+h2 {
+    color: #2E5984;
+    font-weight: 600;
+}
+
+h1 {
+    font-size: 2.25em;
+    text-align: center;
+}
+
+h2 {
+    font-size: 1.5em;
+}
+
+h4 {
+    color: #4D4C5C;
+    font-weight: 200
+}
+
+figure2,
+figure4 {
+    float: right;
+    text-align: center;
+    padding-left: 15px
+}
+
+figure3,
+figure5 {
+    float: left;
+    text-align: center;
+    padding-right: 15px;
+    padding-bottom: 15px;
+}
