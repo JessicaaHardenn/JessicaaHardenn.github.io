@@ -29,17 +29,32 @@ h4 {
     font-weight: 200
 }
 
-figure2,
-figure4 {
-    float: right;
-    text-align: center;
-    padding-left: 15px
+.logo img {
+    width: 75px;
 }
 
-figure3,
-figure5 {
-    float: left;
+.logo h4 {
+    display: inline;
+}
+
+.intro img {
+    margin: 0 auto;
+    display: block;
+}
+
+figcaption {
     text-align: center;
-    padding-right: 15px;
-    padding-bottom: 15px;
+    padding: .5em 0;
+}
+
+.right-img {
+    float: right;
+    padding: 0 0 1em 1em;
+}
+
+.left-img {
+    float: left;
+    padding: 0 1em 0 1em;
+    margin: 0;
+
 }
