@@ -29,6 +29,11 @@ h2 {
     font-size: 1.25em;
 }
 
+.navbar-brand {
+    color: #6e2708;
+    font-size: 2em;
+}
+
 @media (max-width: 450px) {
     .truck img {
         padding: 0 0 10px 0;
