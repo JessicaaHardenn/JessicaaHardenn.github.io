@@ -1,0 +1,46 @@
+body {
+    background-color: #fff8e7;
+}
+
+h1,
+h2 {
+    color: #6e2708;
+}
+
+a {
+    color: #522617;
+    margin: 10px;
+}
+
+.text {
+    padding: 0 30px;
+}
+
+.truck img {
+    padding: 0 10px 10px 0;
+}
+
+.subtitles {
+    padding: 50px 30px;
+
+}
+
+h2 {
+    font-size: 1.25em;
+}
+
+@media (max-width: 450px) {
+    .truck img {
+        padding: 0 0 10px 0;
+    }
+
+    .flowers img {
+        display: block;
+        margin: 0 auto;
+    }
+
+    .subtitles {
+        padding: 10px 30px;
+    }
+
+}
