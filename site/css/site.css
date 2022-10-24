@@ -1,0 +1,47 @@
+body {
+    font-family: 'Montserrat';
+    font-size: 15px;
+    padding: 2em;
+    background-color: #c7e4ee;
+    color: #684b38;
+}
+
+h2 {
+    font-size: 1.25em;
+    padding: 2em 0 1em 0;
+}
+
+h1 {
+    font-size: 2.5em;
+    padding: 1.5em 0 1.5em 0;
+}
+
+img {
+    padding: 0 0 0 3em;
+}
+
+.bio {
+    padding-top: 4em;
+}
+
+.navbar-nav,
+.navbar-brand {
+    font-size: 1.5em;
+    color: #684b38;
+}
+
+.nav-link {
+    color: #684b38
+}
+
+h3,
+h4{
+    font-size: 1.2em;
+}
+
+h6 {
+    font-size: 1.25em;
+}
+h5{
+    padding: 1em 0 .75em 0;
+}
