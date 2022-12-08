@@ -1,0 +1,49 @@
+body {
+    font-size: 15px;
+    background-color: #e2e9f3;
+    color: #152128;
+    font-family: "Lato";
+}
+
+.col-lg-6 {
+    margin: auto;
+}
+
+.row{
+    margin: 2em 0;
+}
+h1{
+    text-align: center;
+    font-size: 2em;
+}
+h2{
+    text-align: center;
+    font-size: 1.5em;
+    padding: 1em 0;
+}
+H4{
+    text-align: center;
+    font-size: 1em
+}
+footer{
+    padding: 2em;
+    text-align: center
+}
+@media (max-width:768px) {
+    .header-img {
+        margin: auto;
+    }
+    h1,
+    h2,
+    h3{
+        font-size: 1.15em;
+    }
+    h1{
+        padding: 1em;
+    }
+    h2,
+    h3{
+        padding: 0;
+    }
+    
+}
